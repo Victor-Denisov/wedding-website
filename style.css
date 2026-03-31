@@ -223,7 +223,7 @@ a { text-decoration: none; }
   font-size: 10px;
   letter-spacing: 0.25em;
   text-transform: uppercase;
-  color: var(--stone);
+  color: var(--dark);
   margin-bottom: 0.5rem;
 }
 .date-block__value {
